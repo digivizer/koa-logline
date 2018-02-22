@@ -1,0 +1,27 @@
+{
+  "name": "koa-logline",
+  "version": "0.1.0",
+  "description": "Koa middleware that logs request lines to an output stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "server",
+    "logging",
+    "log",
+    "clf"
+  ],
+  "author": "Mark Rickerby",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digivizer/koa-logline"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "stdio-mock": "^1.1.0"
+  }
+}
