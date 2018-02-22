@@ -1,5 +1,8 @@
 # koa-logline
 
+[![NPM version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url]
+
 Minimal, dependency-free logging middleware for Koa web apps.
 
 ## Install
@@ -59,3 +62,8 @@ This package was written for a very specific use case and may not be right for y
 Copyright 2018 Digivizer Pty Ltd.
 
 This project is open source under the terms of the ISC license. See the `LICENSE` file included with this software distribution for more information.
+
+[npm-image]: https://img.shields.io/npm/v/koa-logline.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/koa-logline
+[travis-image]: https://img.shields.io/travis/digivizer/koa-logline/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/digivizer/koa-logline
